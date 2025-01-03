@@ -25,7 +25,7 @@ const Hero = () => {
         </p>
         <p className="hero_tag text-gray_gradient">
           {" "}
-          Building Projects that matter
+          Building projects that matter
         </p>
       </div>
       <div className="w-full h-full absolute insert-0">
