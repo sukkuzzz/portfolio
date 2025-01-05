@@ -21,15 +21,6 @@ export const navLinks = [
   },
 ];
 
-<<<<<<< HEAD
-export const myProjects = [
-  {
-    title: "Natours - Tour Booking App",
-    desc: "Natours is a responsive and modern tour booking app that allows users to explore various tours and book accommodations. It features a user-friendly interface and a seamless booking process.",
-    subdesc:
-      "Build using Node.js and Express.js for the backend, with Pug as the templating engine to render views. I employed MongoDB for database management and integrated Stripe for payment processing. For email services, I used Brevo (formerly Sendinblue) and SendGrid, and integrated Nodemailer to send emails within the application. I utilized Mapbox for mapping and geolocation features. To ensure secure authentication, I implemented JWT tokens, allowing users to access protected routes in a seamless and secure manner. ",
-    href: "https://github.com/sukkuzzz/natours",
-=======
 export const clientReviews = [
   {
     id: 1,
@@ -72,7 +63,6 @@ export const myProjects = [
     subdesc:
       "Built as a unique Software-as-a-Service app with Next.js 14, Tailwind CSS, TypeScript, Framer Motion and Convex, Podcastr is designed for optimal performance and scalability.",
     href: "https://www.youtube.com/watch?v=zfAb95tJvZQ",
->>>>>>> 4e7fd3873f27aee348e0ea81000fe1cb7ed9dbd2
     texture: "/textures/project/project1.mp4",
     logo: "/assets/project-logo1.png",
     logoStyle: {
@@ -84,13 +74,8 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-<<<<<<< HEAD
-        name: "Node.js",
-        path: "/assets/nodejs.png",
-=======
         name: "React.js",
         path: "/assets/react.svg",
->>>>>>> 4e7fd3873f27aee348e0ea81000fe1cb7ed9dbd2
       },
       {
         id: 2,
@@ -99,15 +84,6 @@ export const myProjects = [
       },
       {
         id: 3,
-<<<<<<< HEAD
-        name: "MongoDB",
-        path: "/assets/mongodb.png",
-      },
-      {
-        id: 4,
-        name: "Stripe",
-        path: "/assets/stripe.png",
-=======
         name: "TypeScript",
         path: "/assets/typescript.png",
       },
@@ -115,41 +91,10 @@ export const myProjects = [
         id: 4,
         name: "Framer Motion",
         path: "/assets/framer.png",
->>>>>>> 4e7fd3873f27aee348e0ea81000fe1cb7ed9dbd2
       },
     ],
   },
   {
-<<<<<<< HEAD
-    title: "Rubiks Cube Solver",
-    desc: "The Rubik's Cube Solver is an algorithm-based tool that helps solve the Rubik's Cube puzzle. It uses techniques like BFS, DFS, and IDDFS to determine the optimal sequence of moves required to solve the cube from any given configuration. ",
-    subdesc:
-      "By analyzing the cube’s current state, the solver calculates the most efficient solution path using search algorithms, providing a step-by-step guide to solve the puzzle. Whether you're a beginner or an advanced solver, this tool simplifies the process by offering clear, logical moves to restore the cube to its solved state.",
-    href: "https://github.com/sukkuzzz/RUBIKS-CUBE",
-    texture: "/textures/project/project3.mp4",
-    logo: "/assets/project-logo3.png",
-    logoStyle: {
-      backgroundColor: "#2A1816",
-      border: "0.2px solid #36201D",
-      boxShadow: "0px 0px 60px 0px #AA3C304D",
-    },
-    spotlight: "/assets/spotlight1.png",
-    tags: [
-      {
-        id: 1,
-        name: "C++",
-        path: "/assets/c++.png",
-      },
-    ],
-  },
-
-  {
-    title: "DALL-E SeeIt",
-    desc: "DALL-E SeeIt is a cutting-edge image generation platform that allows users to upload images and receive detailed descriptions in real-time. It's a unique blend of AI and user-friendly features.",
-    subdesc:
-      "It is made using React.js, Express.js, TailwindCSS, OpenAI's API and Cloudinary. The platform is designed to be user-friendly and easy to use, with a clean and modern interface that provides instant results.",
-    href: "https://github.com/sukkuzzz/DALL-E-SeeIt",
-=======
     title: "LiveDoc - Real-Time Google Docs Clone",
     desc: "LiveDoc is a powerful collaborative app that elevates the capabilities of real-time document editing. As an enhanced version of Google Docs, It supports millions of collaborators simultaneously, ensuring that every change is captured instantly and accurately.",
     subdesc:
@@ -268,7 +213,6 @@ export const myProjects = [
     subdesc:
       "Built with Next.js 14, Cloudinary AI, Clerk, and Stripe, Imaginify combines cutting-edge technology with a user-centric approach. It can be turned into a side income or even a full-fledged business.",
     href: "https://dall-e-seeit-frontend.onrender.com",
->>>>>>> 4e7fd3873f27aee348e0ea81000fe1cb7ed9dbd2
     texture: "/textures/project/project5.mp4",
     logo: "/assets/project-logo5.png",
     logoStyle: {
@@ -290,15 +234,6 @@ export const myProjects = [
       },
       {
         id: 3,
-<<<<<<< HEAD
-        name: "Nodejs",
-        path: "/assets/nodejs.png",
-      },
-      {
-        id: 4,
-        name: "Open AI",
-        path: "/assets/openai.png",
-=======
         name: "TypeScript",
         path: "/assets/typescript.png",
       },
@@ -306,7 +241,6 @@ export const myProjects = [
         id: 4,
         name: "Framer Motion",
         path: "/assets/framer.png",
->>>>>>> 4e7fd3873f27aee348e0ea81000fe1cb7ed9dbd2
       },
     ],
   },

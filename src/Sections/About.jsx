@@ -21,10 +21,6 @@ const About = () => {
               src="assets/Profile.jpeg"
               alt="grid-1"
               className="w-full sm:h-[276px] h-fit object-contain"
-<<<<<<< HEAD
-              style={{ borderRadius: "100%" }}
-=======
->>>>>>> 4e7fd3873f27aee348e0ea81000fe1cb7ed9dbd2
             />
             <div>
               <p className="grid-headtext">About Me</p>
@@ -32,11 +28,7 @@ const About = () => {
                 A passionate and dedicated Full Stack Developer with a strong
                 focus on software development. During my internship at
                 CodesDope, I worked as a Backend Developer, building scalable
-<<<<<<< HEAD
-                systems and APIs. I've also held leadership roles as Captain of
-=======
                 systems and APIs. I’ve also held leadership roles as Captain of
->>>>>>> 4e7fd3873f27aee348e0ea81000fe1cb7ed9dbd2
                 the boxing team and a member of the Students' Parliament,
                 contributing to internships and placements. I was the 2nd
                 runner-up in the HULT Prize and won a Gold Medal in boxing at
@@ -57,15 +49,9 @@ const About = () => {
               <p className="grid-headtext">Texh Stack</p>
               <p className="grid-subtext">
                 {" "}
-<<<<<<< HEAD
-                I am proficient in various technologies that enable me to build
-                scalable and efficient web applications. My key stack includes
-                the following:
-=======
                 I am proficient in a wide array of technologies that enable me
                 to build scalable and efficient web applications. My key stack
                 includes:
->>>>>>> 4e7fd3873f27aee348e0ea81000fe1cb7ed9dbd2
                 <br /> <span style={{ fontWeight: "bold" }}>Frontend:</span>
                 React, Redux, Next.js, HTML, CSS, JavaScript, Three.js, Chart.js{" "}
                 <br /> <span style={{ fontWeight: "bold" }}>Backend:</span>
@@ -110,11 +96,7 @@ const About = () => {
                 {" "}
                 Flexibility is key in today’s interconnected world. I am
                 equipped and fully prepared to work remotely, collaborating
-<<<<<<< HEAD
-                seamlessly with teams across all time zones. Whether it’s early
-=======
                 seamlessly with teams across all timezones. Whether it’s early
->>>>>>> 4e7fd3873f27aee348e0ea81000fe1cb7ed9dbd2
                 mornings or late nights, I prioritize clear communication,
                 deadlines, and deliverables, ensuring smooth collaboration
                 regardless of where the team is based.
@@ -150,11 +132,7 @@ const About = () => {
                 >
                   LeetCode
                 </a>{" "}
-<<<<<<< HEAD
-                contest rating 1441+ and over 700 problems solved, I
-=======
                 contest rating of 1441+ and over 700 problems solved, I
->>>>>>> 4e7fd3873f27aee348e0ea81000fe1cb7ed9dbd2
                 continuously challenge myself to improve my skills. Whether it’s
                 health-tech apps or game development with Unreal Engine, I’m
                 dedicated to creating innovative solutions that make a
