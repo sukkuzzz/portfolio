@@ -47,11 +47,7 @@ const Contact = () => {
         />
         <div className="contact-container">
           <h3 className="head-text">Contact me </h3>
-          <p className="text-lg text-white-600 mt-3">
-            {" "}
-            I am currently available for freelance work. If you have a project
-          </p>
-
+          <p className="text-lg text-white-600 mt-3"> Get in touch with me.</p>
           <form
             ref={formref}
             onSubmit={handleSubmit}
