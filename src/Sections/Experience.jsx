@@ -59,8 +59,8 @@ import Developer from "../Components/Developer.jsx";
 const Experience = () => {
   return (
     <section className="c-space my-20">
+      <p claasName="head-text">Experience</p>
       <div className="w-full text-white-600">
-        <h2 claasName="head-text">Experience</h2>
         <div className="work-container">
           <div className="work-canvas">
             <Canvas>
